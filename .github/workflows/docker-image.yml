@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 jobs:
 
-  build:
+  build-and-push-docker-image:
 
     runs-on: ubuntu-latest
 
