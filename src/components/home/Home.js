@@ -19,7 +19,7 @@ const Home = () => {
             marginTop: 50,
           }}
         >
-          <h1>devops</h1>
+          <h1>test</h1>
           <div onClick={() => navigateTo()}>
             <h5>View More</h5>
           </div>
